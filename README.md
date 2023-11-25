@@ -13,7 +13,7 @@ SystemEntropy-RNG is a random number generator that leverages system metrics, su
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/SystemEntropy-RNG.git
+    git clone https://github.com/5rijan/SystemEntropy-RNG.git
     cd SystemEntropy-RNG
     ```
 
